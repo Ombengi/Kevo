@@ -3,7 +3,13 @@ guid: 7639958c353adcb419f75415cbc9617b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - LapCompleteTrig: {fileID: 100000, guid: 4fea6053a1424d44daf193f09be2d491, type: 3}
+  - HalfLapTrig: {instanceID: 0}
+  - MinuteDisplay: {instanceID: 0}
+  - SecondDisplay: {instanceID: 0}
+  - MilliDisplay: {instanceID: 0}
+  - LapTimeBox: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
